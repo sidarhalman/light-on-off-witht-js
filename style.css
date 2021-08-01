@@ -1,0 +1,34 @@
+*/ {
+    color: #00ff00;
+}
+
+body {
+    background: #000000;
+}
+
+.box {
+    transition-duration: 0.1s;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    height: 350px;
+    width: 350px;
+    margin: 20px;
+    padding: 20px;
+    font-family: monospace;
+    color: #00ff00;
+    font-size: 30px;
+    border: 1px solid darkgreen;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
