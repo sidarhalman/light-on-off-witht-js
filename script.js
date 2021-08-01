@@ -6,12 +6,7 @@ function onCss() {
 };
 
 function offCss() {
-    document.getElementById('box1').
-    style.boxShadow = "none";
-
-    document.getElementById('box1').
-    style.backgroundColor = "#000000";
-
-    document.getElementById('box1').
-    style.border = "1px solid darkgreen"
+    document.getElementById('box1').style.boxShadow = "none";
+    document.getElementById('box1').style.backgroundColor = "#000000";
+    document.getElementById('box1').style.border = "1px solid darkgreen"
 }
