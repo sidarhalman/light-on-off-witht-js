@@ -1,6 +1,6 @@
 function onCss() {
     document.getElementById('box1').style.backgroundColor = "#00ff00";
-    document.getElementById('box1').style.boxShadow = "5px 5px 20px"
+    document.getElementById('box1').style.boxShadow = "5px 5px 30px, -5px -5px 30px"
     document.getElementById('box1').style.boxShadowColor = "#00ff00"
     document.getElementById('box1').style.border = "none";
 };
